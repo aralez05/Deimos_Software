@@ -1,6 +1,6 @@
 #include <cstdlib> // Necesario para 'system'
 #include <iostream>
-
+#papu
 int
     std::cout << "Iniciando interfaz gráfica..." << std::endl;
     
