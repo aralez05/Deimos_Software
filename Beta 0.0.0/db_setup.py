@@ -20,6 +20,6 @@ def crear_base_datos():
     
     conn.commit()
     conn.close()
-
+#prueba
 if __name__ == "__main__":
     crear_base_datos()
